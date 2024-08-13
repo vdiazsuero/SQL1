@@ -1,3 +1,5 @@
-# Obtener el id y el nombre de todos los productos. Referencia: Production.Product
+# Obtain the ID and name of all products. Reference: Production.Product
 SELECT ProductID, Name
 FROM Production.Product;
+
+# 
